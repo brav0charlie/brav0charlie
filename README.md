@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brav0charlie
-- 👀 I’m interested in networking & wireless, automation, and security. I'm also an amateur photographer.
+- 👀 I’m interested in cloud, networking & wireless, automation, and security. I'm also an amateur photographer.
 - 🌱 I’m currently learning Python.
 
 
