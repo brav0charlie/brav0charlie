@@ -5,7 +5,7 @@
   - 📚 Currently studying for the AWS Certified Security - Specialty exam.
 - ✅ Current Certifications ([Credly](https://www.credly.com/users/billclark/badges)): AWS Certified Solutions Architect - Associate, Microsoft Certified Azure Administrator Associate (AZ-104), HashiCorp Certified Terraform Associate, ITIL Foundation (v3)
 
-You can also find me on [LinkedIn](https://linkedin.com/in/clarkbill).
+You can also find me on [LinkedIn](https://linkedin.com/in/clarkbill) and [billclark.io](https://billclark.io).
 
 <!---
 brav0charlie/brav0charlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
