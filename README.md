@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @brav0charlie
-- 👀 I’m interested in cloud, networking, automation, and security. 
+- 👋 Hi, I’m Bill (@brav0charlie).
+- 👀 I’m interested in cloud, docker, networking, automation, and security.
+- 📚 Currently studying for the AWS Certified Security - Specialty exam.
 - 📸 I'm also an amateur photographer. I enjoy travel and street photography.
 - 🌱 I’m currently learning Amazon Web Services, Microsoft Azure, and Terraform.
 - ✅ Current Certifications ([Credly](https://www.credly.com/users/billclark/badges)): AWS Certified Solutions Architect - Associate, Microsoft Certified Azure Administrator Associate (AZ-104), HashiCorp Certified Terraform Associate, ITIL Foundation (v3)
