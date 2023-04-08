@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bill (@brav0charlie).
-- 👀 I’m interested in cloud, docker, networking, automation, and security.
+- 👀 I’m interested in cloud platforms, docker, networking, automation, and security.
 - 📸 I'm also an amateur photographer. I enjoy travel and street photography.
 - 🌱 I’m learning more about Amazon Web Services, Microsoft Azure, and Terraform every day.
   - 📚 Currently studying for the AWS Certified Security - Specialty exam.
