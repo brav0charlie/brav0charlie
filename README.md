@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bill (@brav0charlie).
 - 👀 I’m interested in endpoint management, cloud platforms, Docker, networking, automation, and security.
 - 📸 I'm also an amateur photographer. I enjoy travel and street photography.
-- 🌱 I’m learning more about Amazon Web Services, Microsoft Azure, and Terraform every day.
+- 🌱 I’m learning about InTune, Windows Autopilot, and Azure Active Directory.
 - ✅ Current Certifications ([Credly](https://www.credly.com/users/billclark/badges)): AWS Certified Solutions Architect - Associate, Microsoft Certified Azure Administrator Associate (AZ-104), HashiCorp Certified Terraform Associate, ITIL Foundation (v3)
 
 You can also find me on [LinkedIn](https://linkedin.com/in/clarkbill).
