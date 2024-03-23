@@ -6,6 +6,8 @@
 
 You can also find me on [LinkedIn](https://linkedin.com/in/clarkbill).
 
+PGP Key Fingerprint: 5066 4B91 AE23 7248 9C3C  82C5 C338 F7BB 9301 4B48
+
 <!---
 brav0charlie/brav0charlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
